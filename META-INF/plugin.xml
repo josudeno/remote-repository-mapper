@@ -5,7 +5,7 @@
   <vendor email="ben.gibson.2011@gmail.com" url="h">https://github.com/ben-gibson/remote-repository-mapper</vendor>
 
   <description><![CDATA[
-      Opens a file in a remove repository.
+      Opens a file in a remote repository.
     ]]></description>
 
   <change-notes><![CDATA[
